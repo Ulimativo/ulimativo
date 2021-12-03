@@ -1,8 +1,3 @@
-### Hi there 👋
-
-I'm a full time marketing professional who is curious about web development since the late 1990s.
-Started with Python in 2016, as a hobby.
-
 <h1 align="center">Hi 👋, I'm Ulimativ.</h1>
 <h3 align="center">A Full-Time Marketing Professional and Hobby Developer.</h3>
 
@@ -21,10 +16,9 @@ Started with Python in 2016, as a hobby.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ulimativ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ulimativ" /></a></p><br><br>
 
-
-
-
+<p align="center">
 [![Ulimativo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulimativo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
 
 <!--
