@@ -4,6 +4,8 @@ I'm a full time marketing professional who is curious about web development sinc
 Started with Python in 2016, as a hobby.
 
 
+[![Ulimativo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulimativo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Ulimativo/ulimativo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
