@@ -3,6 +3,7 @@
 I'm a full time marketing professional who is curious about web development since the late 1990s.
 Started with Python in 2016, as a hobby.
 
+![alt text](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/Python.svg "Python")
 
 [![Ulimativo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulimativo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
