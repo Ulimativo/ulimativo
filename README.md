@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a full time marketing professional who is curious about web development since the late 1990s.
+Started with Python in 2016, as a hobby.
+
+
+
 <!--
 **Ulimativo/ulimativo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
