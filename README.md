@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulimativ.</h1>
 <h3 align="center">A Full-Time Marketing Professional and Hobby Developer.</h3>
 
+<p>I started back in the late 90ies with
 
 <!--
 <h3 align="left">Support:</h3>
