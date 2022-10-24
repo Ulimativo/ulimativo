@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulimativ.</h1>
 <h3 align="center">A Full-Time Marketing Professional and Hobby Developer.</h3>
 
-<p>I started back in the late 90ies with
+<p>I started coding back in the early 1990s with Logo, Pascal and Basic. In the late 90ies I started coding websites in HTML, PHP, SQL, CSS, JavaScript as a side hustle, then moving on to Flash Animatins during my studies in the early 2000s. Fast forward I discovered Python during experimenting with physical computing (Arduino first, then moving on to Raspberry Pi and Python). Still curious about all that stuff despite my main job in Marketing.
 
 <!--
 <h3 align="left">Support:</h3>
