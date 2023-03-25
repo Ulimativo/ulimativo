@@ -12,6 +12,9 @@
 [![Ulimativo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulimativo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   </h3>
+<h3 align="center">  
+ <a href="https://app.daily.dev/Ulimativ"><img src="https://api.daily.dev/devcards/7cb88ce0838e4c72a2f585c1e61652f3.png?r=xz2" width="400" alt="Ulrich Raab's Dev Card"/></a>
+  </h3>
 
 
 <!--
