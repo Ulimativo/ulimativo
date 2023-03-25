@@ -13,7 +13,9 @@
 
   </h3>
 <h3 align="center">  
- <a href="https://app.daily.dev/Ulimativ"><img src="https://api.daily.dev/devcards/7cb88ce0838e4c72a2f585c1e61652f3.png?r=xz2" width="400" alt="Ulrich Raab's Dev Card"/></a>
+ <a href="https://app.daily.dev/Ulimativ">
+ 
+ <img src="https://github.com/Ulimativo/ulimativo/blob/main/devcard.svg" width="400" alt="Ulrich Raab's Dev Card"/></a>
   </h3>
 
 
