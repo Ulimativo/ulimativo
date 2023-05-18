@@ -12,12 +12,6 @@
 [![Ulimativo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulimativo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   </h3>
-<h3 align="center">  
- <a href="https://app.daily.dev/Ulimativ">
- 
- <img src="https://github.com/Ulimativo/ulimativo/blob/main/devcard.svg" width="400" alt="Ulrich Raab's Dev Card"/></a>
-  </h3>
-
 
 <!--
 **Ulimativo/ulimativo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
